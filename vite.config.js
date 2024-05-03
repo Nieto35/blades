@@ -8,7 +8,4 @@ export default defineConfig({
             refresh: true,
         }),
     ],
-    build: {
-        outDir: "dist", // Aquí puedes cambiar el nombre de la carpeta de salida
-    },
 });
